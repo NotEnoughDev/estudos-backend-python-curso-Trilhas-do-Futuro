@@ -1,0 +1,11 @@
+[
+    {
+        "id": "123",
+        "nome": "amem",
+        "categoria": "pao",
+        "quantidade": 123,
+        "preco_compra": 12.25,
+        "preco_venda": 1233.0,
+        "fornecedor": "shaolin"
+    }
+]
